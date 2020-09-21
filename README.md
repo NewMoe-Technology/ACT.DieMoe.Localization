@@ -1,2 +1,3 @@
 # ACT.DieMoe.Localization
-A Project aims to localize Advanced Combat Tracker for Chinese.
+
+ACT的中文本地化
