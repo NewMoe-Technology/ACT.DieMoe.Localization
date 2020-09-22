@@ -1,0 +1,6 @@
+# Python
+*.pyc
+
+
+# containing source from https://github.com/EQAditu/AdvancedCombatTracker/
+AdvancedCombatTracker/
