@@ -1,0 +1,12 @@
+{
+  "root##cbOnlyResults": "Only Show\r\nSearch Results",
+  "root##groupBox1": "Find in Encounter logs...",
+  "root\\groupBox1##btnSearchText": "Search as Text",
+  "root\\groupBox1##btnSearchRegex": "Search as Regex",
+  "root\\groupBox1##btnFindNext": "Find Next",
+  "root\\groupBox1##btnFindPrev": "Find Prev",
+  "root\\groupBox2##btnCopyCombat": "Copy Combat",
+  "root\\groupBox2##btnCopyResults": "Copy Results",
+  "root\\groupBox2##btnCopySelection": "Copy Selection",
+  "root\\groupBox2##btnCopyAll": "Copy All"
+}

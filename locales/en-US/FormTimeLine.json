@@ -1,0 +1,17 @@
+{
+  "root##groupBox": "Event Toggles",
+  "root\\groupBox##btnInvertChecked": "Invert Checked",
+  "root\\groupBox##btnCheckAll": "Check All",
+  "root\\groupBox##btnApplyRecalc": "Apply above settings and recalculate",
+  "root\\groupBox##label2": "Sample Detail (Seconds)",
+  "root\\groupBox##cbGlobalMaxLimit": "Same type rows share same scale",
+  "root\\groupBox##cbTLIncomingHealing": "Incoming Healing",
+  "root\\groupBox##cbTLOutgoingHealing": "Outgoing Healing",
+  "root\\groupBox##cbTLIncomingDamage": "Incoming Damage",
+  "root\\groupBox##cbTLOutDamage": "Outgoing Damage",
+  "root\\groupBox##cbTLRollingAvg": "Use rolling average plots (not segments)",
+  "root\\groupBox##label1": "Combatant Grouping",
+  "root##cbAllowRedraw": "R",
+  "root##btnZoomIn": "+",
+  "root##btnZoomOut": "-"
+}

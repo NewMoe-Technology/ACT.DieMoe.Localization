@@ -1,0 +1,23 @@
+{
+  "root##groupBox1": "格式化字符串",
+  "root##groupBox2": "可用的格式元素",
+  "root##groupBox3": "格式化元素描述",
+  "root##groupBox4": "格式化示例",
+  "root\\groupBox1##btnAddTextPreset": "添加文本格式预设",
+  "root\\groupBox1##cbAlliesOnly": "只导出团队战斗",
+  "root\\groupBox1##cbPrefixAllied": "前缀团队统计",
+  "root\\groupBox1##groupBox5": "每个战斗格式化",
+  "root\\groupBox1##groupBox6": "团队格式化",
+  "root\\groupBox1##label1": "战斗排序关键字:",
+  "root\\groupBox1\\groupBox5##btnAppend": "附加",
+  "root\\groupBox1\\groupBox5##btnEditCombatantString": "直接编辑",
+  "root\\groupBox1\\groupBox5##btnRemove": "删除",
+  "root\\groupBox1\\groupBox5##btnShiftLeft": "<-",
+  "root\\groupBox1\\groupBox5##btnShiftRight": "->",
+  "root\\groupBox1\\groupBox6##btnAppendAllies": "附加",
+  "root\\groupBox1\\groupBox6##btnEditAllyString": "直接编辑",
+  "root\\groupBox1\\groupBox6##btnRemoveAllies": "删除",
+  "root\\groupBox1\\groupBox6##btnShiftLeftAllies": "<-",
+  "root\\groupBox1\\groupBox6##btnShiftRightAllies": "->",
+  "root\\groupBox3##lblElementDescription": "没有选择元素"
+}

@@ -1,0 +1,10 @@
+{
+  "root##lblUpdateStatus": "Checking version from web...",
+  "root##btnCancel": "Cancel",
+  "root##lblThisVer": "1.0.0.0",
+  "root##label1": "This Version:",
+  "root##label2": "Web Version:",
+  "root##lblWebVer": "1.0.0.0",
+  "root##btnUpdate": "Update",
+  "root##btnDownload": "Download"
+}

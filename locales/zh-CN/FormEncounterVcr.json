@@ -1,0 +1,18 @@
+{
+  "root\\panel1##cbLinkToEnc": "实时模式",
+  "root\\panel1##cbOutlineTraces": "显示跟踪指针",
+  "root\\panel1##cbPersistantMobs": "Inactive mobs persist",
+  "root\\panel1##cbRadialDisplay": "环状显示战斗",
+  "root\\panel1##label1": "阴影",
+  "root\\panel1##label2": "s",
+  "root\\panel1##label3": "伤害阈值",
+  "root\\panel2##btnBegining": "|<",
+  "root\\panel2##btnEnding": ">|",
+  "root\\panel2##btnFrameBack": "< ||",
+  "root\\panel2##btnFrameForward": "|| >",
+  "root\\panel2##lblStatus": "暂停",
+  "root\\panel2##rbFastForward": ">>",
+  "root\\panel2##rbPause": "||",
+  "root\\panel2##rbPlay": ">",
+  "root\\panel2##rbRewind": "<<"
+}

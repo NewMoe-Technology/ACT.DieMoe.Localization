@@ -1,0 +1,21 @@
+{
+  "root##btnBack": "< 返回",
+  "root##btnClose": "关闭",
+  "root##btnNext": "下一步 >",
+  "root\\tabControl1##tabPage1": "开始",
+  "root\\tabControl1##tabPage2": "日志文件",
+  "root\\tabControl1##tabPage3": "启动设置",
+  "root\\tabControl1##tabPage4": "解析插件",
+  "root\\tabControl1\\tabPage1##label1": "该向导将帮助您选择解析插件，配置更新和选择日志文件。",
+  "root\\tabControl1\\tabPage2##cbAutoLogSwitch": "自动加载最近更改的日志文件。",
+  "root\\tabControl1\\tabPage2##label3": "每次切换角色时，ACT都可以检测到正在使用的其他日志文件，并自动切换到该文件。",
+  "root\\tabControl1\\tabPage3##cbAutoVerCheck": "自动版本检查",
+  "root\\tabControl1\\tabPage3##label2": "启用此功能将允许ACT和可能的插件在每次启动时检查新版本。 建议启用此功能以保持最新的修复/添加。 （需要Internet连接）",
+  "root\\tabControl1\\tabPage3##label4": "尝试每次拆分日志文件",
+  "root\\tabControl1\\tabPage3##label5": "兆字节。 （0将禁用）",
+  "root\\tabControl1\\tabPage3##label6": "在启动、退出或角色切换时，ACT将尝试重命名最后打开的日志文件（如果它大于列出的大小）。 这可能需要管理权限，并且不适用于当前正在写入的文件。\r\n\r\n此操作仅仅是为了方便导入旧文件或在文本编辑器中打开它们。 更改此设置时没有实时性能考虑因素。",
+  "root\\tabControl1\\tabPage4##btnGetPluginTitles": "1: 获取可用的解析插件",
+  "root\\tabControl1\\tabPage4##btnUsePlugin": "下载/启用插件",
+  "root\\tabControl1\\tabPage4##label7": "ACT本身没有任何解析游戏日志文件的能力。 您必须使用外部插件来解析来自不同游戏的日志文件。 浏览下拉列表，然后选择一个要启用的解析插件。 一次不要启用多个解析插件。",
+  "root\\tabControl1\\tabPage4##label8": "确保为正在进行的游戏选择合适的插件。 （用粗体红色标出）"
+}

@@ -1,0 +1,6 @@
+{
+  "root##btnClose": "关闭",
+  "root##btnSendToTimers": "发送到计时器",
+  "root##cbRestrictShortDelays": "使用12-120秒内的延迟",
+  "root##cbUseRecastCalcs": "使用Recast重新计算"
+}

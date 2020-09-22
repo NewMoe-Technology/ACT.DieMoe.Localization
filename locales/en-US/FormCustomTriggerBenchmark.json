@@ -1,0 +1,5 @@
+{
+  "root##btnDoBenchmark": "Perform Benchmarking",
+  "root##groupBox2": "Custom Trigger List",
+  "root##groupBox1": "Select an encounter with log text to benchmark with..."
+}

@@ -1,0 +1,12 @@
+{
+  "root##cbOnlyResults": "只显示\r\n搜索结果",
+  "root##groupBox1": "在战斗日志中寻找...",
+  "root\\groupBox1##btnFindNext": "下一个",
+  "root\\groupBox1##btnFindPrev": "前一个",
+  "root\\groupBox1##btnSearchRegex": "以正则表达式方式查询",
+  "root\\groupBox1##btnSearchText": "以文本方式查询",
+  "root\\groupBox2##btnCopyAll": "复制所有",
+  "root\\groupBox2##btnCopyCombat": "复制战斗",
+  "root\\groupBox2##btnCopyResults": "复制结果",
+  "root\\groupBox2##btnCopySelection": "复制所选"
+}

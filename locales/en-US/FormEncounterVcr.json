@@ -1,0 +1,18 @@
+{
+  "root\\panel2##rbPause": "||",
+  "root\\panel2##lblStatus": "Paused",
+  "root\\panel2##rbRewind": "<<",
+  "root\\panel2##btnBegining": "|<",
+  "root\\panel2##rbFastForward": ">>",
+  "root\\panel2##btnFrameBack": "< ||",
+  "root\\panel2##rbPlay": ">",
+  "root\\panel2##btnFrameForward": "|| >",
+  "root\\panel2##btnEnding": ">|",
+  "root\\panel1##cbLinkToEnc": "Realtime Mode",
+  "root\\panel1##cbRadialDisplay": "Show Combatants in a ring",
+  "root\\panel1##cbOutlineTraces": "Outline trace pointers",
+  "root\\panel1##label3": "Dmg Threshold",
+  "root\\panel1##label2": "s",
+  "root\\panel1##label1": "Shadow",
+  "root\\panel1##cbPersistantMobs": "Inactive mobs persist"
+}

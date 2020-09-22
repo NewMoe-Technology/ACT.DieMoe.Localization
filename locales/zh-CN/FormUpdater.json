@@ -1,0 +1,10 @@
+{
+  "root##btnCancel": "取消",
+  "root##btnDownload": "下载",
+  "root##btnUpdate": "更新",
+  "root##label1": "此版本：",
+  "root##label2": "当前版本：",
+  "root##lblThisVer": "1.0.0.0",
+  "root##lblUpdateStatus": "正在检查版本更新...",
+  "root##lblWebVer": "1.0.0.0"
+}

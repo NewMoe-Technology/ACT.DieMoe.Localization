@@ -1,0 +1,10 @@
+{
+  "root##btnOk": "OK",
+  "root##groupBox2": "Input Time Ranges",
+  "root\\groupBox2\\tableLayoutPanel1##label1": "Range Start",
+  "root\\groupBox2\\tableLayoutPanel1##label2": "Range End",
+  "root\\groupBox2\\tableLayoutPanel1##label3": "Time Codes (Copy/Paste to/from other windows)",
+  "root##groupBox1": "Slide Time Ranges",
+  "root\\groupBox1##label5": "End",
+  "root\\groupBox1##label4": "Start"
+}
