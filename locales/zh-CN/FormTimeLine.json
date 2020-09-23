@@ -1,0 +1,17 @@
+{
+  "root##btnZoomIn": "+",
+  "root##btnZoomOut": "-",
+  "root##cbAllowRedraw": "R",
+  "root##groupBox": "事件切换",
+  "root\\groupBox##btnApplyRecalc": "应用以上设置并重新计算",
+  "root\\groupBox##btnCheckAll": "全选",
+  "root\\groupBox##btnInvertChecked": "反选",
+  "root\\groupBox##cbGlobalMaxLimit": "相同类型的行共享相同的比例",
+  "root\\groupBox##cbTLIncomingDamage": "承伤量",
+  "root\\groupBox##cbTLIncomingHealing": "承疗量",
+  "root\\groupBox##cbTLOutDamage": "伤害量",
+  "root\\groupBox##cbTLOutgoingHealing": "治疗量",
+  "root\\groupBox##cbTLRollingAvg": "使用滚动平均图（而非数据段）",
+  "root\\groupBox##label1": "战斗分组",
+  "root\\groupBox##label2": "样本细节（秒）"
+}

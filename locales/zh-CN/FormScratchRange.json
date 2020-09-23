@@ -1,0 +1,10 @@
+{
+  "root##btnOk": "确认",
+  "root##groupBox1": "时间范围滑块",
+  "root##groupBox2": "输入时间范围",
+  "root\\groupBox1##label4": "起点",
+  "root\\groupBox1##label5": "终点",
+  "root\\groupBox2\\tableLayoutPanel1##label1": "截取范围开始",
+  "root\\groupBox2\\tableLayoutPanel1##label2": "截取范围结束",
+  "root\\groupBox2\\tableLayoutPanel1##label3": "时间戳"
+}

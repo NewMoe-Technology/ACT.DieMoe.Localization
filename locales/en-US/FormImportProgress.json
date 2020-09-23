@@ -1,0 +1,16 @@
+{
+  "root##gbPov": "Point of View",
+  "root\\gbPov##btnLastKnownName": ".",
+  "root\\gbPov##btnOk": "Use Above",
+  "root\\gbPov##label1": "Character Name:",
+  "root##groupBox3": "Batch Statistics",
+  "root\\groupBox3##lblBatchStats": ".",
+  "root\\groupBox3##lblLabels2": "Time Spent:\r\nLines Read:\r\nLPS:\r\nCharacters Read:\r\nCPS:\r\n",
+  "root##groupBox2": "File Statistics",
+  "root\\groupBox2##lblFileStats": ".",
+  "root\\groupBox2##lblLabels": "Time Spent:\r\nLines Read:\r\nLPS:\r\nCharacters Read:\r\nCPS:",
+  "root##groupBox1": "Progress",
+  "root\\groupBox1##lblFileProgress": "Progress: 0%",
+  "root\\groupBox1##lblBatchCount": "Batch 0 of 0",
+  "root\\groupBox4##btnClose": "Close"
+}

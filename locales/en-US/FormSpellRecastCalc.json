@@ -1,0 +1,6 @@
+{
+  "root##cbUseRecastCalcs": "Recalculate with Recast AAs",
+  "root##cbRestrictShortDelays": "Use delays between 12-120s",
+  "root##btnSendToTimers": "Send to Timers",
+  "root##btnClose": "Close"
+}

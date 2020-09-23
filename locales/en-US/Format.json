@@ -1,0 +1,23 @@
+{
+  "root##groupBox4": "Formatting Example",
+  "root##groupBox3": "Formating Element Description",
+  "root\\groupBox3##lblElementDescription": "No Element Selected",
+  "root##groupBox2": "Available Formatting Elements",
+  "root##groupBox1": "Formatting String",
+  "root\\groupBox1##label1": "Sort combatants by:",
+  "root\\groupBox1##btnAddTextPreset": "Add Text Format Preset",
+  "root\\groupBox1##cbPrefixAllied": "Prefix Allied statistics",
+  "root\\groupBox1##cbAlliesOnly": "Only export allied combatants",
+  "root\\groupBox1##groupBox6": "Allies Formatting",
+  "root\\groupBox1\\groupBox6##btnEditAllyString": "Edit Directly",
+  "root\\groupBox1\\groupBox6##btnShiftRightAllies": "->",
+  "root\\groupBox1\\groupBox6##btnShiftLeftAllies": "<-",
+  "root\\groupBox1\\groupBox6##btnAppendAllies": "Append",
+  "root\\groupBox1\\groupBox6##btnRemoveAllies": "Remove",
+  "root\\groupBox1##groupBox5": "Per-Combatant Formatting",
+  "root\\groupBox1\\groupBox5##btnEditCombatantString": "Edit Directly",
+  "root\\groupBox1\\groupBox5##btnShiftRight": "->",
+  "root\\groupBox1\\groupBox5##btnShiftLeft": "<-",
+  "root\\groupBox1\\groupBox5##btnAppend": "Append",
+  "root\\groupBox1\\groupBox5##btnRemove": "Remove"
+}

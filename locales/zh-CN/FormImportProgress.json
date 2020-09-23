@@ -1,0 +1,16 @@
+{
+  "root##gbPov": "PoV",
+  "root##groupBox1": "进度",
+  "root##groupBox2": "文件统计",
+  "root##groupBox3": "批量统计",
+  "root\\gbPov##btnLastKnownName": ".",
+  "root\\gbPov##btnOk": "使用上述设定",
+  "root\\gbPov##label1": "角色名：",
+  "root\\groupBox1##lblBatchCount": "批数据 0 of 0",
+  "root\\groupBox1##lblFileProgress": "进度： 0%",
+  "root\\groupBox2##lblFileStats": ".",
+  "root\\groupBox2##lblLabels": "经过时间:\r\n读取行数:\r\nLPS:\r\n字符读取:\r\nCPS:",
+  "root\\groupBox3##lblBatchStats": ".",
+  "root\\groupBox3##lblLabels2": "经过时间:\r\n读取行数:\r\nLPS:\r\n字符读取:\r\nCPS:\r\n",
+  "root\\groupBox4##btnClose": "关闭"
+}

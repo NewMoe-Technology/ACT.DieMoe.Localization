@@ -1,0 +1,21 @@
+{
+  "root##btnClose": "Close",
+  "root##btnBack": "< Back",
+  "root##btnNext": "Next >",
+  "root\\tabControl1##tabPage1": "Start",
+  "root\\tabControl1\\tabPage1##label1": "This wizard will assist you in selecting a parsing plugin, configuring updates and selecting a log file.",
+  "root\\tabControl1##tabPage4": "Parsing Plugin",
+  "root\\tabControl1\\tabPage4##label8": "Make certain that you select the proper plugin for the game you are playing.  (Marked in bold red)",
+  "root\\tabControl1\\tabPage4##label7": "ACT by itself does not have any capability to parse game log files.  You must use an external plugin to parse log files from different games.  Browse the drop-down list and select a plugin to enable with the associated button. Do not enable more than one parsing plugin at a time.",
+  "root\\tabControl1\\tabPage4##btnUsePlugin": "Download/Enable Plugin",
+  "root\\tabControl1\\tabPage4##btnGetPluginTitles": "1: Get available parsing plugins",
+  "root\\tabControl1##tabPage2": "Log File",
+  "root\\tabControl1\\tabPage2##label3": "Any time you switch characters ACT can detect a different log file being used and switch to it automatically.",
+  "root\\tabControl1\\tabPage2##cbAutoLogSwitch": "Auto-load recently changed log files.",
+  "root\\tabControl1##tabPage3": "Startup Settings",
+  "root\\tabControl1\\tabPage3##label6": "Upon starting, exiting or character switching, ACT will attempt to rename the last open log file if it is larger than the listed size.  This may require administrative privilages and will not work with files currently being written to.\r\n\r\nThis operation is merely for convenience of importing old files or opening them in text editors.  There is no real-time performance consideration when changing this setting.",
+  "root\\tabControl1\\tabPage3##label5": "megabytes.  (Zero will disable)",
+  "root\\tabControl1\\tabPage3##label4": "Attempt to split the log file every",
+  "root\\tabControl1\\tabPage3##label2": "Enabling this will allow ACT and possibly plugins to check for new versions each time they start.  Enabling this is recommended to remain up-to-date with fixes/additions.  (Requires Internet Connection)",
+  "root\\tabControl1\\tabPage3##cbAutoVerCheck": "Auto Version Check"
+}
